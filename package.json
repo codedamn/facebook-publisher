@@ -1,0 +1,23 @@
+{
+  "name": "facebookAutomater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehulmpt/codedamn-facebook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehulmpt/codedamn-facebook/issues"
+  },
+  "homepage": "https://github.com/mehulmpt/codedamn-facebook#readme",
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  }
+}
